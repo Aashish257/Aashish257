@@ -57,6 +57,14 @@
 
 ---
 
+## LeetCode
+
+<div align="center">
+  <a href="https://leetcode.com/arshilkande999">
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
+
 ## 🔗 Connect With Me
 
 <p align="left">
