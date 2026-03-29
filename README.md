@@ -43,17 +43,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish257&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish257&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aashish257&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+</div>
 
 ---
 
@@ -65,9 +65,6 @@
   </a>
 </div>
 
-<a href="https://leetcode.com/arshilkande999">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Profile" />
-</a>
 ---
 
 ## 🔗 Connect With Me
