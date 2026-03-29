@@ -14,7 +14,7 @@
 - 🧠 Researching **multimodal deepfake detection** using PyTorch & OpenCV
 - ⚔️ Preparing for **HackWithInfy** | Active on LeetCode & Codeforces
 - 🌱 Currently exploring **ML pipelines** and **AI-powered web apps**
-- 📬 Reach me at: **[your-email@example.com]**
+- 📬 Reach me at: **aashish.shilkande@gmail.com**
 
 ---
 
