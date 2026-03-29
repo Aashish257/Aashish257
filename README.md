@@ -65,6 +65,11 @@
   </a>
 </div>
 
+<a href="https://leetcode.com/arshilkande999">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Profile" />
+</a>
+---
+
 ## 🔗 Connect With Me
 
 <p align="left">
