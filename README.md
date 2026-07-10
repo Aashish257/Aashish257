@@ -8,17 +8,15 @@
 ---
 
 ## 🚀 About Me
-
 - 🎓 M.Tech @ VJTI Mumbai  
 - 💻 MERN Stack Developer  
-- 🧠 Deepfake Detection (Multimodal - Vision + Audio)  
+- 🔐 Malicious-Dependency Detection in Fintech CI/CD Pipelines (Software Supply Chain Security)  
 - ⚔️ Preparing for HackWithInfy  
 - 🌱 Exploring ML Pipelines + AI Systems  
 
 ---
 
 ## 🛠 Tech Stack
-
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,js,python,react,nodejs,express,mongodb,mysql,pytorch,opencv,docker,git,tailwind,vite,postman,vscode" />
 </p>
@@ -30,28 +28,24 @@
 ### 🌿 Sustainable Marketplace
 - AI recommendations + bidding + payments  
 - Stack: MERN + Razorpay  
-
 🔗 https://github.com/Aashish257/sustainable-local-marketplace  
 
 ---
 
-### 🎭 Deepfake Detection
-- Multimodal (Face + Voice)  
-- PyTorch + OpenCV  
-
-🔗 https://github.com/Aashish257/deepfake-detection  
+### 🧭 TerraQuest
+- AI-powered travel planning platform — personalized itineraries, mood-based discovery, trip sharing  
+- Stack: Next.js, TypeScript, MongoDB, OpenAI API, Mapbox  
+🔗 https://terra-quest-mu.vercel.app  
 
 ---
 
 ### 🧩 Competitive Programming
 - DSA (DP, Graphs, Trees, BS)  
-
 🔗 https://github.com/Aashish257/competitive-programming  
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aashish257&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Aashish257&theme=tokyonight&hide_border=true&v=1" width="48%" />
@@ -64,7 +58,6 @@
 ---
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aashish257&theme=tokyonight&no-frame=true&margin-w=10&v=1" />
 </p>
@@ -72,7 +65,6 @@
 ---
 
 ## 🧠 LeetCode
-
 <p align="center">
   <a href="https://leetcode.com/arshilkande999">
     <img src="https://leetcard.jacoblin.cool/arshilkande999?theme=dark&font=baloo&ext=heatmap" />
@@ -82,9 +74,8 @@
 ---
 
 ## 🔗 Connect
-
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/aashish-shilkande">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/arshilkande999">
