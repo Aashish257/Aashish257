@@ -10,8 +10,6 @@
 ## 🚀 About Me
 - 🎓 M.Tech @ VJTI Mumbai  
 - 💻 MERN Stack Developer  
-- 🔐 Malicious-Dependency Detection in Fintech CI/CD Pipelines (Software Supply Chain Security)  
-- ⚔️ Preparing for HackWithInfy  
 - 🌱 Exploring ML Pipelines + AI Systems  
 
 ---
